@@ -1,0 +1,8 @@
+# Only the notebooks (and README/LICENSE) are version-controlled in this repo.
+# Everything else here is a generated output, a report build, or local tooling.
+*
+
+!.gitignore
+!README.md
+!LICENSE
+!*.ipynb
